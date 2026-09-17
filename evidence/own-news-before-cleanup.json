@@ -1,0 +1,41 @@
+{
+  "found": [
+    {
+      "id": 59643,
+      "newsCategoryId": 1,
+      "title": "QA-DIP-20260913-N3",
+      "description": "QA-diploma-future",
+      "creatorId": 2,
+      "createDate": 1789302343159,
+      "publishDate": 1790715600,
+      "publishEnabled": true,
+      "creatorName": "Лебедев Данил Александрович",
+      "page": 1
+    },
+    {
+      "id": 59642,
+      "newsCategoryId": 5,
+      "title": "QA-DIP-20260913-N2-EDIT",
+      "description": "QA-diploma-edited-description",
+      "creatorId": 2,
+      "createDate": 1789301622344,
+      "publishDate": 1789246800,
+      "publishEnabled": false,
+      "creatorName": "Лебедев Данил Александрович",
+      "page": 5
+    },
+    {
+      "id": 59468,
+      "newsCategoryId": 1,
+      "title": "QA-DIP-20260911-1701-N1",
+      "description": "QA-diploma-description",
+      "creatorId": 2,
+      "createDate": 1789135339877,
+      "publishDate": 1789074000,
+      "publishEnabled": true,
+      "creatorName": "Лебедев Данил Александрович",
+      "page": 7
+    }
+  ],
+  "failed": []
+}
