@@ -43,8 +43,16 @@ captures/
 *.nar
 *.ear
 *.zip
+!allure-results.zip
 *.tar.gz
 *.rar
 
 ### Gradle ###
 !gradle/wrapper/gradle-wrapper.jar
+autotests/node_modules/
+autotests/.env
+allure-results/
+allure-report/
+debug-*.png
+autotests/*.png
+autotests/*.xml
